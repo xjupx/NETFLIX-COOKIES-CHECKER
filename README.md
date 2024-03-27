@@ -1,6 +1,4 @@
-if "Next.exe" closes after start, add cookie (only support netlix cookies) in other folder
-and use "CONVERT.exe" to make it json cookies (TXT TO JSON) and next execute Next.exe and done
-
+if "Next.exe" closes after start, add cookies to "unchecked_cookies" (only support netlix cookies) 
 To install correctly the requirements do this:
 
 + Install Python (3.6.8) <-- Go to: https://www.python.org/downloads/release/python-368/ and
