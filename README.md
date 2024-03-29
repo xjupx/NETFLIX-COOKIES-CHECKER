@@ -9,8 +9,8 @@ install correctly the file compability with your system, next on options (opened
 + Next create a folder and here put your netflix cookies format netscape, and open convert.exe
 Select the folder and wait
 
-+ Open Next (FREE).exe and open it, wait for results.. 
-
++ Open Next (FREE).exe and wait for results..
+  
 Note:
 
 You cannot sell this
